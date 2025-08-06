@@ -1,5 +1,5 @@
 
-![App Demo](./demo.png)
+![App Demo](cover.png)
 # 🦴 Vertebral Column Disorder Predictor using Machine Learning
 
 A Streamlit-based web application that predicts vertebral column conditions such as **Hernia**, **Spondylolisthesis**, or **Normal** using machine learning algorithms and six biomechanical features from X-ray data.
